@@ -205,19 +205,19 @@ margin-bottom: 16px;
     margin-bottom: 16px;
     color: #6c6c6c;
 }
-.feature-link{
-text-align: right;
+.product-link{
 color: rgba(224, 44, 109, 0.87);
 font-family: Poppins;
 font-size: 16px;
 font-weight: 700;
 text-decoration: none;
-margin-right:170px;
-margin-top: 50px;
-background: transparent;
+padding-right: 170px;
+ text-align: right;
+
+
 
 }
-.feature-link a{
+.product-link a{
     text-decoration: none;
 }
 
